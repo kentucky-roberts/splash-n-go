@@ -1,14 +1,11 @@
+
 {
     "variables": {
         "authors": [
             { "name": "Samy" },
             { "name": "Aaron" }
         ]
-    }
-}
-
-
-{
+    },
     "plugins": ["myplugin"],
     "pluginsConfig": {
         "myPlugin": {
